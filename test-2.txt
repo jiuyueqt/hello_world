@@ -1,0 +1,2 @@
+subst W: E:/view/GitView
+利用 SSH 完成 Git 与 GitHub 的绑定
